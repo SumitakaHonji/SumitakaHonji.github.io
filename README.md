@@ -1,5 +1,3 @@
-# SumitakaHonji.github.io
-
 # Page of Sumitaka Honji
 
 ## Major
