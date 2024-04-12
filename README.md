@@ -2,6 +2,7 @@
 
 ## Major
 My research interests are modeling and controling soft robots from theoretical points of view.
+Now I am trying to develop a control system for soft robotic system.
 I am also interested in how humans control their body.
 Espescially, I want to understand how to run fast in terms of robotics.
 
