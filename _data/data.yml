@@ -1,10 +1,10 @@
-name: John Doe
+name: Sumitaka Honji
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
+  email: dummy@johndoe.com
   github: johndoe
   linkedin: johndoe
   phone: 
@@ -17,13 +17,13 @@ languages:
   - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: PhD of Engineering
+    time: 2021-2024
+    university: Kyushu University
 
-  - degree: BSc in Computer Science
+  - degree: BSc in Mechanical Engineering
     time: 2010-2014
-    university: Ionian University
+    university: Kyushu University
 
 skills:
   - category: Backend
