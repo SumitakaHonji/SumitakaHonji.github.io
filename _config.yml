@@ -1,15 +1,3 @@
-title: CV | A jekyll template
-description:  A beautiful template for your CV.
-url: https://sumitakahonji.github.io
-baseurl: ''
-theme_skin: blue
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
-    - jekyll-minifier
-
-exclude:
-  - docker-compose.yml
+title: Sumitaka Honji
+description: Portfolio of Sumitaka Honji
+theme: jekyll-theme-minimal
