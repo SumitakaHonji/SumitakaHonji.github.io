@@ -13,6 +13,7 @@ Espescially, I want to understand how to run fast in terms of robotics.
 
 ## Career
 - 04/2024 -- 04/2024 Postdoctoral Researcher, Institute of Science and Engineering, Ritsumeikan Univ.
+- Until now
 
 ## Publications
 ### Journal
